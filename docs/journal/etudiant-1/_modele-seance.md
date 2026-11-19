@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "2026-11-18 : Installation de Visual Studio Code et PlatformIO"
-parent: DOUAA OUHAMOU & FATMA NUR YAYILKAN 
+title: "AAAA-MM-JJ : sujet de la séance"
+parent: Prénom Nom
 grand_parent: Journal de bord
 ---
 
@@ -12,33 +12,18 @@ Copiez-le dans votre dossier, renommez la copie avec la date (ex. 2026-09-23.md)
 - parent : EXACTEMENT le titre de votre page étudiant (docs/journal/votre-dossier/index.md).
 -->
 
-# 2026-11-18 : Installation de Visual Studio Code et PlatformIO
+# AAAA-MM-JJ : sujet de la séance
 
-**Séance :**Installation et configuration · **Durée :** 1:30 h
+**Séance :** planifiée / hors créneau · **Durée :** 2 h
 
 ## Fait
 
-Installation de Visual Studio Code comme environnement de développement.
-
-Installation de l'extension PlatformIO IDE.
-
-Ouverture de PlatformIO Home et découverte de son interface.
-
-Découverte des principales fonctionnalités : création de projets, gestion des cartes électroniques, bibliothèques et outils de compilation.
-
-<img width="959" height="564" alt="Capture d&#39;écran Plateform io" src="https://github.com/user-attachments/assets/c7b561e4-bc79-481f-af33-94d93976d1d8" />
-
+Ce que j'ai réalisé pendant la séance.
 
 ## Pourquoi
 
-Cette installation permet de préparer l'environnement de développement nécessaire à la programmation et au téléversement de code sur les microcontrôleurs utilisés dans le projet.
+Les décisions prises et leurs raisons (mesures, essais, échanges avec l'équipe).
+
 ## Reste à faire
 
-Créer un premier projet.
-Tester la connexion avec la carte électronique.
-
-
-
-
-
-
+Les prochaines actions, et ce qui bloque éventuellement.
