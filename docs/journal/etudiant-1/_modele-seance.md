@@ -26,18 +26,19 @@ Ouverture de PlatformIO Home et découverte de son interface.
 
 Découverte des principales fonctionnalités : création de projets, gestion des cartes électroniques, bibliothèques et outils de compilation.
 
+<img width="959" height="564" alt="Capture d&#39;écran Plateform io" src="https://github.com/user-attachments/assets/c7b561e4-bc79-481f-af33-94d93976d1d8" />
+
+
 ## Pourquoi
 
 Cette installation permet de préparer l'environnement de développement nécessaire à la programmation et au téléversement de code sur les microcontrôleurs utilisés dans le projet.
 ## Reste à faire
 
 Créer un premier projet.
-
-
-
-<img width="959" height="564" alt="Capture d&#39;écran Plateform io" src="https://github.com/user-attachments/assets/6e537bab-d130-40d9-af7b-5c20de712309" />
-
 Tester la connexion avec la carte électronique.
+
+
+
 
 
 
